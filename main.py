@@ -1,2 +1,2 @@
-x = 13
-print(x)
+x = 12
+print("Hoje é dia", x)
